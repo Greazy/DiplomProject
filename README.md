@@ -1,0 +1,2 @@
+# DiplomProject
+My bachelors work
